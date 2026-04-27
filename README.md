@@ -84,3 +84,11 @@ FeatherNet-Replication/
 │
 ├── requirements.txt
 └── README.md
+```
+
+---
+
+## 🔗 Feedback
+
+For questions or feedback, contact:  
+[barkin.adiguzel@gmail.com](mailto:barkin.adiguzel@gmail.com)
